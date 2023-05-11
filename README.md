@@ -1,24 +1,24 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMN31K512_V1.0.png" width="320" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMN31K522_V1.0.png" width="320" height="240"> 
 </div> 
 
 
-BM52D5121-1 
+BMN31K522 
 ===========================================================
 
-The BM52D5021-1 is a microporous atomiser module from Best Modules, which uses the UART communication method. This document provides the description of the BM52D5021-1 Arduino Lib functions and how to install the Arduino Lib. The example demonstrate the function of configuring atomisation level and atomisation time, etc.
+The BMN31K522 is an atomization Adapter module launched by Flextron, using UART communication method.This document describes the Arduino Lib function and Arduino Lib installation method of BMN31K522. The sample demonstrates the fogging function and the fog gear switching function.
 
 #### Applicable types:
 <div align=center>
 
 |Part No.   |Description                   |
 |:---------:|:----------------------------:|
-|BM52D5121-1|miniwatt atomiser module|
-|BMN31K512  |miniwatt atomiser module,contains an adapter cable,1.7MHz Atomizing tablet and the BM52D5021-1 module|
+|BM52O5221-1|atomization module|
+|BMN31K522  |Atomization Adapter module,contains a transfer control board and the BM52O5221-1 module|
 
 </div> 
 
-This library can be installed via the Arduino Library manager. Search for **BM52D5121-1**. 
+This library can be installed via the Arduino Library manager. Search for **BMN31K522**. 
 
 Repository Contents
 -------------------
@@ -31,7 +31,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BM52D5121-1 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm52d5121-1.html#tab-product2 )** - Arduino Library Description.
+* **[BMN31K522 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmn31k522.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
