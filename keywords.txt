@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map For BMN31K522
+#######################################
+
+#######################################
+# Classes and Objects (KEYWORD1)
+#######################################
+
+BMN31K522	KEYWORD1	 	//KEYWORD1（深橙色）—— 類
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin			KEYWORD2	//KEYWORD2（淺橙色）—— 函數	
+setAtomizationRank	KEYWORD2
+setAtomizationTime	KEYWORD2
+getAtomizationRank	KEYWORD2
+getAtomizationTime	KEYWORD2
+getWaterStatus		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ATOMIZER_S	LITERAL1
+ATOMIZER_M	LITERAL1
+ATOMIZER_L	LITERAL1
+DATA_HEADER	LITERAL1
+SET_RANK_CMD	LITERAL1
+SET_TIME_CMD	LITERAL1
+GET_RANK_CMD	LITERAL1
+GET_TIME_CMD	LITERAL1
+GET_WATER_STATUE_CMD	LITERAL1
+COMMUNICATION_OK	LITERAL1
+COMMUNICATION_ERROR	LITERAL1
+CHECK_ERROR	LITERAL1
+CHECK_OK	LITERAL1
+BAUDRATE	LITERAL1	
+TIMEOUT_ERROR	LITERAL1
