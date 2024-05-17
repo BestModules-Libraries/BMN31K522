@@ -21,12 +21,15 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMN31K522 Arduino Library V1.0.1 Description v100](https://www.bestmodulescorp.com/bmn31k522.html#tab-product2)** - Arduino Library Description.
+* **[BMN31K522 Arduino Library Description](https://www.bestmodulescorp.com/bmn31k522.html#tab-product2)** - Arduino Library Description.
 
 Version History  
 -------------------
 
-* **V1.0.1** - Initial public release.
+* **V1.0.1**   
+&emsp;&emsp;- Initial public release.  
+ * **V1.0.2**   
+&emsp;&emsp;- Add the content " #include "arduino.h" "to the h file so that it can be used on the Arduino UNO development board.
 
 License Information
 -------------------
@@ -40,3 +43,4 @@ If you have any questions or concerns on licensing, please contact technical sup
 Distributed as-is; no warranty is given.
 
 BESTMODULES
+
